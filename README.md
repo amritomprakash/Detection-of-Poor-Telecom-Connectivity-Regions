@@ -18,8 +18,7 @@ Instructions to run the Android APP:
 
 Instruction to use the Python script
 1.Save all the files regarading the python script on the same folder
-2.First run the model.py
-3.Then, run final.py(flask server)
-4.Open the front.html page
+2.Run final.py(flask server)
+3.Open the front.html page
 
 FOR FURTHER DETAILS REFER TO THE PPT ATTACHED
