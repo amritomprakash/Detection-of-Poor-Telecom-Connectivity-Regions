@@ -23,7 +23,7 @@ Instructions to run the Android APP:
 
 2.Click on the EXPORT button to publish the signal strength
 
-Instruction to use the Python script
+Instructions to use the Python script
 
 1.Save all the files regarading the python script on the same folder
 
